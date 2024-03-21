@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+.card{
+	width:300px;
+	padding:50px;
+	background-color:grey;
+	box-shadow: 0 5px 20px rgba;
+}
+.product-image{
+          width:300px;
+}
+.title{
+	text-align:center;
+	font-size:50px;
+}
+.price{
+	font-size:40px;
+	text-align:center;
+}
+.description{
+	font-size:30px;
+	text-align:center;
+}
+.buy_now_btn{
+	padding:10px;
+	background-color:red;
+	color:white;
+	border-radius:10px;
+}
+
+
